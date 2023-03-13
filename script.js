@@ -39,5 +39,5 @@ function getSchduleTime() {
   }
 }
 
-console.log(projectTime)
+
 
