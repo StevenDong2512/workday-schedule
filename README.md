@@ -11,6 +11,8 @@ Also, this application colour codes the tasks, when the hour is already past, th
 
 VS code, live server JavaScript, jQuery and dayJS. 
 
+Deployed app link: https://stevendong2512.github.io/weather/
+
 ## Usage
 Overview of the user interface: 
 ![Overview](./screenshots/Overview.png)
